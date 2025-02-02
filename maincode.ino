@@ -1,4 +1,4 @@
-//main code
+//main code, i had removed most of the debugging for a clearer code. if you need them and can't code. use chatgpt.
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
