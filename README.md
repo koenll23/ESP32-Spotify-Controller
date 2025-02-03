@@ -50,5 +50,5 @@ Feel free to contribute! Fork the repo and submit a pull request with improvemen
 Happy coding & enjoy your music! 🎧🔥
 ---
 images:
-![User Interface Display](images/user-interface-display.jpg)
-![Hardware Setup](images/hardware-setup.jpg)
+![User Interface Display](user-interface-display.jpg)
+![Hardware Setup](hardware-setup.jpg)
