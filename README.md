@@ -46,5 +46,9 @@ Enhanced UI with smooth animations 🎨
 
 🤝 Contributing
 Feel free to contribute! Fork the repo and submit a pull request with improvements.
-
+---
 Happy coding & enjoy your music! 🎧🔥
+---
+images:
+![User Interface Display](images/user-interface-display.jpg)
+![Hardware Setup](images/hardware-setup.jpg)
