@@ -42,7 +42,7 @@ The thermistor measures temperature and displays it on the screen.
 🔮 Future Improvements
 Add volume control 🎚️
 Enhanced UI with smooth animations 🎨
-(I won't change anything on this project anymore. This will be your challenge. I would like to see your results! :D)
+ > (I won't change anything on this project anymore. This will be your challenge. I would like to see your results! :D)
 
 🤝 Contributing
 Feel free to contribute! Fork the repo and submit a pull request with improvements.
