@@ -1,4 +1,4 @@
-//main code, i had removed most of the debugging for a clearer code. if you need them and can't code. use chatgpt.
+// main code, this is the finished project with only the lines 232 and 237 as debugging
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
@@ -229,12 +229,12 @@ void setup() {
     while (WiFi.status() != WL_CONNECTED) {
         delay(1000);
     }
-    Serial.println("Verbonden met Wi-Fi!");
+    Serial.println("Connected to Wi-Fi!"); // now in english
 
     if (!SPIFFS.begin()) {
         while (1) yield();
     }
-    Serial.println("SPIFFS geïnitialiseerd.");
+    Serial.println("SPIFFS initialized!"); // now in english
 
     client.setCACert(digicert_root_g2);
     access_token = getAccessToken();
