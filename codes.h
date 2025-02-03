@@ -7,7 +7,7 @@ const char* refresh_token = "refreshtoken";
 const char* ssid = "ssid";
 const char* password = "password";
 #endif
-const char digicert_root_g2[] PROGMEM = // official digicert rootcrt. this works with the spotify api!
+const char digicert_root_g2[] PROGMEM = // official digicert rootcrt. this works with the spotify api! (this one is publicly available)
 "-----BEGIN CERTIFICATE-----\n"
 "MIIDjjCCAnagAwIBAgIQAzrx5qcRqaC7KGSxHQn65TANBgkqhkiG9w0BAQsFADBh\n"
 "MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3\n"
