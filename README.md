@@ -1,10 +1,5 @@
 # 🎵 Spotify Controller with TFT Display 🎵
 
-## 🚨 Bug Investigation 🚨  
-I'm currently investigating some bugs in my code 🧐🔍.  
-Issues include random resets and severe lag. Working on fixes!  
-If you notice anything, let me know. 🚀💻  
-
 🚀 About This Project:  
 This project is a minimalist Spotify controller featuring three physical buttons, a thermistor, and a 1.8-inch SPI TFT display (ST7735, 128x160). The display shows the current track info, and the buttons allow seamless music control.  
   
