@@ -11,14 +11,13 @@ Next Track ⏭️
 Previous Track ⏮️  
 Thermistor 🌡️ to measure and display ambient temperature.  
 ESP32 Compatible  
-IFTTT or MQTT Support for Spotify communication.  
   
 🔧 Requirements  
 Microcontroller: ESP32 / ESP8266 (or another compatible MCU)  
 Display: 1.8-inch ST7735 SPI TFT (128x160 resolution)  
 Three physical buttons  
 Thermistor + resistors  
-Jumper wires & breadboard or PCB (perfboard will also work :)  
+Jumper wires & breadboard or PCB (perfboard also works :)  
 🛠️ Installation  
   
 Clone the repository:  
@@ -43,7 +42,7 @@ The thermistor measures temperature and displays it on the screen.
 🔮 Future Improvements  
 Add volume control 🎚️  
 Enhanced UI with smooth animations 🎨  
- > (I won't change anything on this project anymore. This will be your challenge. I would like to see your results! :D)  
+ > (I won't change anything on this project anymore. This will be your challenge. I would love to see your results! :D)  
   
 > 🤝 Contributing  
 > Feel free to contribute! Fork the repo and submit a pull request with improvements.  
